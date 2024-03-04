@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Pagina para practica 1.1</title>
+</head>
+<body>
+    <h1>Segunda pagina web</h1>
+    <p>Top Botargas</p>
+
+    <ol>
+        <li>Dr. Simi</li>
+        <li>Duolingo</li>
+        <li>Barnie</li>
+    </ol>
+
+    <h1>Simi Tactico</h1>
+    <a href="https://youtu.be/l2lrdXKs0R4?si=3MLt6SgMKnK6XN4p">
+    <img src="https://th.bing.com/th/id/R.4622aa55d3ef23e1c1362123213a523c?rik=wrFU1AfRcr7ozA&pid=ImgRaw&r=0" alt="Simi Tactico">
+    </a>
+</body>
+
+</html>
